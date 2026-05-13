@@ -2,7 +2,7 @@
 
 > **一句话定位**：基于 Online Retail II 公开数据集（~82 万条交易 / 5,939 客户 / 2 年跨度），完成"数据清洗 → RFM 用户分群 → 复购预测建模 → 业务建议"的完整 CRM 分析链路。
 
-[📊 **在线交互看板 (GitHub Pages)**](./reports/dashboard.html) · [📓 Notebooks](./notebooks) · [💡 业务建议](./reports/business_recommendations.md)
+[📊 **在线交互看板 (GitHub Pages)**](https://nsc328-del.github.io/ecommerce-user-analytics/reports/dashboard.html) · [📓 Notebooks](./notebooks) · [💡 业务建议](./reports/business_recommendations.md)
 
 ## 项目背景
 
